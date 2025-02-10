@@ -1,4 +1,4 @@
-# K8S Nginx Hot Reload
+# K8S Nginx Hot Reloader
 
 ## Know-Why
 
